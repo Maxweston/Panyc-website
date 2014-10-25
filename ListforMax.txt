@@ -1,0 +1,47 @@
+Deverill
+
+Contracted to develop core administrative application for one of Deverill's clients, one the largest U.K. charities.  
+The work covers all areas of the development cycle, from requirements gathering through to deployment and documentation.
+Key technologies are MSSQL Server and Sharepoint for data storage, MS Office applications and web technologies for User interface, SSRS for reporting. 
+The system is used by over 1000 staff members administering for over 10000 service users in over 100 separate programmes.
+
+NETSCC
+
+A major member of the National Institute for Health Research, NETSCC manages the grant administration for clinical research in the UK. 
+Panyc contracted to design and implement a reporting bureau combining various work channels reports into a central process.
+Requests for reports coming from House of Lords, House of Commons, Chief Medical officer and other important bodies, 
+reports were designed to be technical yet clear to read.  Most reports being based on ICD10 classification coding for matching research trials.
+
+Panyc was also asked to design and implement methods to improve data quality on contact data. 
+It developed software and set in place methods to provide a continuous improvement loop for admin staff.
+Regular reports checking many metrics monitoring progress along with lists of exceptions ready for correction.
+
+Siemens
+Develop a reporting service to manage quality of timesheet hours categorisation submitted by engineering consultants. 
+Querying the SAP system and presenting output as an Excel workbook comprising sheet analysis and a summary aggregation.
+Various associated reports also designed that enabled the company to recover as invoice-able many hours of work.   
+
+Skandia
+Software development of an internal application to manage the comparison of fund valuations as seen by company systems compared to those of fund managers.
+
+Affinion
+
+Designed, developed a Claims logging system for UK customer relations with bordereau reports automatically generated in Excel for various Underwriters.
+Other analysis of benefit usage output as CSV files. 
+Self validating and process driven system. 
+Produced a rules based products system as a resource used by the Claims and Complaints systems to ensure only correct 
+client/ product/ benefit matches can be selected thus ensuring correct data entry.
+
+
+
+Cobham Group
+
+Extensive work with many of the group companies in the UK and USA. Software development for Technical Document Management, 
+full business system for managing repair and overhaul of commercial aircraft parts, rules based product configuration linked to bespoke quotation system.  
+
+Hyperdoodle
+Hyper-doodle is an Android phone/ tablet application that produces complex patterns very readily. 
+It has various bespoke pens and geometries with pattern generation based on a mathematical algorithm devised by Panyc. 
+Initially prototyped in Java on a PC, the development is in Android Java and C++.
+Hyper-doodle is produced in a free (Hyper-doodle free) or paying version, both are updated regularly. 
+It is available on Google Play and the Samsung App Market, and has been well received and attracted over 20000 downloads in 130 countries.

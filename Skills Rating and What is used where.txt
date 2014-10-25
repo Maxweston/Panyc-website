@@ -1,0 +1,41 @@
+VBA			9/10
+T-SQL/MSSQL		9/10
+MS Access		9/10
+Android Java		7/10
+UI/UX Design		8/10
+SSRS			7/10
+C++/NDK			3/10
+Sharepoint		2/10
+Actionscript/Flash 		7/10
+Ms Excell			8/10
+Requirement Gathering	9/10
+Business Analysis		7/10
+HTML			8/10
+CSS			6/10
+Javascript		5/10
+PHP			4/10
+MYSQL			4/10
+Business Intelligence	6/10
+Qlikview			5/10
+SSIS			5/10
+Reporting			8/10
+Data Analysis		8/10
+ASP			7/10
+
+Deverill
+ VBA, T-SQL/MSSQL, MS Access, Ms Excell, SSRS, Bussiness Intellegence, Qlickview, SSIS
+
+NETSCC
+VBA, MS Access, Ms Excell, SSRS, T-SQL/MSSQL, SSIS, Bussiness Analysis, Requirment Gathering, Reporting, Data Analysis,  Bussiness Intellegence
+
+SIEMENS
+VBA, Ms Excell, MS Access, Reporting, Data Analysis, Requirment Gathering, Bussiness Analysis, Bussiness Intellegence
+
+SKANDIA
+VBA, T-SQL/MSSQL, MS Access, Ms Excell, Reporting, Data Analysis
+
+AFFINION
+HTML, CSS, ASP, VBA, Ms Excell, MS Access, T-SQL/MSSQL, Requirment Gathering, Data Analysis, Reporting
+
+Cobham
+VBA, T-SQL/MSSQL, MS Access, UI/UX Design, SSRS, Ms Excell, Requirment Gathering, Bussiness Analysis, HTML, CSS, Bussiness Intellegence, SSIS, Reporting, Data Analysis, ASP	
